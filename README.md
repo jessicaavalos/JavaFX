@@ -1,5 +1,5 @@
 # JavaFX
-Script to facilitate compiling and running JavaFx applications
+Script that facilitates compiling and running JavaFx applications
 
 To use:
 
